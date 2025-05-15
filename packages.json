@@ -1,1 +1,13 @@
-
+[
+  {
+    "package": "CRBHits",
+    "maintainer": "Kristian K Ullrich <ullrich@evolbio.mpg.de>",
+    "url": "https://github.com/kullrich/CRBHits",
+    "home": "https://kullrich.github.io/CRBHits/"
+  },
+  {
+    "package": "scTEI",
+    "maintainer": "Kristian K Ullrich <ullrich@evolbio.mpg.de>",
+    "url": "https://github.com/kullrich/scTEI"
+  }
+]
