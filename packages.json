@@ -2,17 +2,17 @@
   {
     "package": "CRBHits",
     "maintainer": "Kristian K Ullrich <ullrich@evolbio.mpg.de>",
-    "url": "https://github.com/kullrich/CRBHits",
+    "url": "https://github.com/kullrich/crbhits",
     "home": "https://kullrich.github.io/CRBHits/"
   },
   {
     "package": "scTEI",
     "maintainer": "Kristian K Ullrich <ullrich@evolbio.mpg.de>",
-    "url": "https://github.com/kullrich/scTEI"
+    "url": "https://github.com/kullrich/sctei"
   },
   {
     "package": "vGWAS",
     "maintainer": "Kristian K Ullrich <ullrich@evolbio.mpg.de>",
-    "url": "https://github.com/kullrich/vGWAS"
+    "url": "https://github.com/kullrich/vgwas"
   }
 ]
